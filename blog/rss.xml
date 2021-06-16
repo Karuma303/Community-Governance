@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IOTA Community Governance Blog</title>
+        <link>https://github.com/iota-community/Community-Governance/blog</link>
+        <description>IOTA Community Governance Blog</description>
+        <lastBuildDate>Wed, 16 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello World! 👋]]></title>
+            <link>https://github.com/iota-community/Community-Governance/Community-Governance/blog/hello-world</link>
+            <guid>hello-world</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome the the new IOTA Identity X-Team Website!]]></description>
+        </item>
+    </channel>
+</rss>

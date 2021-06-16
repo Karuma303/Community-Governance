@@ -1,0 +1,1 @@
+(self.webpackChunkIOTA_Identity_X_Team=self.webpackChunkIOTA_Identity_X_Team||[]).push([[858],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World! \ud83d\udc4b","permalink":"/Community-Governance/blog/hello-world"}]}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkIOTA_Identity_X_Team=self.webpackChunkIOTA_Identity_X_Team||[]).push([[579],{7861:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/Community-Governance/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
