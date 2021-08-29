@@ -1,32 +1,32 @@
 ![image](assets/iota_community_treasury.png)
 
-# IOTA Treasury Governance Info Thread
+# IOTA Treasury Governance Information
 
 The involved community members hope to give the community in this thread the most recent updates and info on how 
 the IOTA community approaches and develops the upcoming vote for or against a community-controlled governance structure.
 We also hope to inform a broader part of the community about the ongoing discussion and actions and invite everyone 
 to participate and get actively involved in this important topic.
 
-## General Information and history of the Tokens
+## General Information / History of the Tokens
 
-With the launch of the Chrysalis Network, the community has been offered the option to decide if unclaimed tokens from 
+With the launch of [Chrysalis], the IOTA community has been offered the option to decide if unclaimed tokens from 
 the initial crowd sale and some network upgrades in 2017 in which users needed to claim their funds after the upgrade 
 that have not been claimed until today, should be released into a status where the IOTA community takes control 
 over those funds. 
 
 The node operators had two options with the launch of Chrysalis: 
 
-* Choose to keep everything as it was before **(IOTA AS Fork)** 
+* Choose to keep everything as it was before **(IOTA AS Fork)**.
 * Give the community the chance to decide the further usage of those funds **(IOTA Chrysalis Mainnet)**.
 
 Not a single user or node operator has taken the chance of IOTA AS, and so the IOTA community now has two options 
-to choose from and continue. Read the details about this topic in the following BlogPosts from IF:
+to choose from and continue. Read the details about this topic in the following blog posts from IF:
  
 https://blog.iota.org/unclaimed-tokens-community-treasury-and-iota-as-faq/
 
 https://blog.iota.org/iota-community-treasury-and-genesis-validation/
 
-Shortly after the Chrysalis update and those BlogPosts, the IOTA Community in the Discord Server started to discuss 
+Shortly after the [Chrysalis] update and those blog posts, the IOTA Community in the Discord Server started to discuss 
 this topic intensively, and a vast amount of members have since then been actively involved in the process 
 of developing a solution to give the whole IOTA community a voice and make a vote possible.
 
@@ -39,9 +39,10 @@ hand in hand here.
 
 ### The following resources have been created since then and are available to inform yourself and take part in the ongoing process:
 
-#### Github Repository
-here we started a more focussed discussion on topics initially - this Github Repo will also be used to host an overview 
-about the ongoing initiatives needed for a voting mechanism - we want everything to be open source and transparent:
+#### GitHub Repository
+here we started a more focussed discussion on topics initially - this GitHub repository will also be used to host 
+an overview about the ongoing initiatives needed for a voting mechanism - we want everything to be open source 
+and transparent:
 https://github.com/iota-community/Community-Governance/discussions  
 A second repository focussing on the specifications of the tech and the real software development is this one:
 https://github.com/iota-community/treasury
@@ -51,9 +52,9 @@ We created three channels where daily ongoing discussions about the topics are h
 This is the current main place to get involved and participate. Please use the invite 
 https://discord.iota.org and join the channels  
 
-* \#governance-discussion
-* \#voting-tech
-* \#governance-vision  
+- \#governance-discussion
+- \#voting-tech
+- \#governance-vision  
   
 Use the !rank function and rank yourself !governance to receive notifications 
 
@@ -78,50 +79,53 @@ https://github.com/iota-community/Community-Governance/tree/main/meetings
 Many community members have taken part in those discussions and calls, and we have successfully made some decisions 
 on how the first vote should be approached.
 
-<!-- THIS IS THE CURRENT STATE OF THE PROJECT COMMUNITY VOTE ON THE UNCLAIMED TREASURY TOKENS -->
-## This is the current state of the project “Community Vote on the unclaimed Treasury Tokens”:
+## The current state of the project “Community Vote on the unclaimed Treasury Tokens”
 
-### **General Vote Info for the first vote**
+### General Vote Info for the first vote
 
 The community will have two clearly defined options of what should happen to the tokens, and these two options 
-will be the votable options in the first vote:
+will be the votable options in the first vote.
 
-* **Build:** The Tokens will be made available and handled over into the control of a system that is governed by 
-  the IOTA community to support and fund projects and developments in the IOTA Ecosystem. This system needs to be built 
-  first before the tokens can be moved into the control of this system.
+#### Build
+
+The tokens will be made available and handled over into the control of a system that is governed by 
+the IOTA community to support and fund projects and developments in the IOTA Ecosystem. This system needs to be built 
+first before the tokens can be moved into the control of this system.
   
-* **Burn:** The tokens will stay removed from the IOTA network and can never be created or used again in the IOTA DLT.
+#### Burn
+
+The tokens will stay removed from the IOTA network and can never be created or used again in the IOTA DLT.
 
 The above-stated vote should happen as soon as possible, but not before IOTA Ledger integration is available, 
 and Major Exchanges like Binance have opened Withdrawals for IOTA again.
 
-* **The voting weight will be related to the IOTA tokens a user holds. 1 IOTA = 1 Vote** To gain the maximum weight, 
+- **The voting weight will be related to the IOTA tokens a user holds. 1 IOTA = 1 Vote** To gain the maximum weight, 
   voters will need to keep the tokens on an address for a defined time. Only holding it on that address for the full 
   defined voting time builds 100% voting weight.
 
-* **100% of all valid votes** is defined as the amount of IOTA tokens successfully migrated into the chrysalis network 
+- **100% of all valid votes** is defined as the amount of IOTA tokens successfully migrated into the chrysalis network 
   at the milestone when the vote-counting period ends.
 
-* **Minimum total participation** is not required to create a legit and binding vote outcome - only the amount 
+- **Minimum total participation** is not required to create a legit and binding vote outcome - only the amount 
   of valid cast votes will be used to determine the result.
 
-* **The winner** will be the option that receives the simple majority of all valid votes.
+- **The winner** will be the option that receives the simple majority of all valid votes.
 
-* Should an **error in the code** be exposed during or after the decision which has been proven exploited to influence 
+- Should an **error in the code** be exposed during or after the decision which has been proven exploited to influence 
   the outcome, the vote is invalid and has to be repeated after the error has been removed from the code.
 
-* **Should the outcome of the vote be a draw**, the community will set up a second vote with the same conditions 
+- **Should the outcome of the vote be a draw**, the community will set up a second vote with the same conditions 
   as the first one
 
-* **The vote will be made available in the Firefly Wallet** for users in a system developed by the community 
+- **The vote will be made available in the [Firefly] Wallet** for users in a system developed by the community 
   with technical support and backing of the IF
 
-* **Counting will happen in a Hornet node plugin**. Node owners will be able to implement this plugin and validate 
+- **Counting will happen in a [Hornet] node plugin**. Node owners will be able to implement this plugin and validate 
   the voting process. 
 
 ## Treasury Website
 
-The participating community members have decided to build a Website as o single point of information for voters. 
+The participating community members have decided to build a Website as a single point of information for voters. 
 This Website will show all relevant information about the vote, display tutorials and guides on how to vote, 
 and display the whole Referendum.
 
@@ -129,29 +133,35 @@ The Website is currently under construction.
  
 The domain chosen by the community members is: [IOTATreasury.org](https://iotatreasury.org)
 
-Contributions regarding Design and Branding are requested and welcome! Get in contact within the IOTA Discord 
-in the #governance-discussion channel, please.
+Any contributions to the design and branding of the website are welcome. Please contact us in the official 
+IOTA Discord in the channel #governance-discussion.
 
 ## The Voting mechanism
 
-IOTA holders will receive an updated version of the Firefly Wallet with an implemented option to vote. 
+IOTA holders will receive an updated version of the [Firefly] Wallet with an implemented option to vote. 
 Votes are related to the balance of a user. 100 Mi = 100 million votes
 
-### **The Vote will be separated into different phases**
+### Voting phases
 
-* **Commencing:** timeframe where users are invited to cast a vote and are free to change the vote at any time 
-  without consequences. It should be long enough to give anyone the chance to vote without a rush and to get 
-  all information. Not yet finally decided how long it will be.
+#### Commencing Phase
 
-* **Holding:** timeframe in which votes need to be held on addresses to reach the total weight. Tokens can be moved, 
-  but moving them will lead to Votes not longer being counted until they are used again in a new vote. 
-  This will lead to a percentage of the entire voting weight building in relation to holding time. 
-  Only Votes that are kept from the beginning till the end of the holding period reach the total voting weight. 
-  The holding time also still needs to be defined finally by the community.
+This is the timeframe where users are invited to cast a vote and are free to change the vote at any time 
+without consequences. It should be long enough to give anyone the chance to vote without a rush and to get 
+all information. Not yet finally decided how long it will be.
 
-* **Ending:** After the defined voting End-milestone the votes will get counted by a software plugin, and the vote 
-  outcome will be published. This software will be implemented in the Hornet nodes, and every node owner can activate 
-  this and validate the count with the own node
+#### Holding Phase
+
+This is the timeframe in which votes need to be held on addresses to reach the total weight. Tokens can be moved, 
+but moving them will lead to Votes not longer being counted until they are used again in a new vote. 
+This will lead to a percentage of the entire voting weight building in relation to holding time. 
+Only Votes that are kept from the beginning till the end of the holding period reach the total voting weight. 
+The holding time also still needs to be defined finally by the community.
+
+#### Ending Phase
+
+After the defined voting End-milestone the votes will get counted by a software plugin, and the vote 
+outcome will be published. This software will be implemented in the [Hornet] nodes, and every node owner can activate 
+this and validate the count with the own node
 
 Users have a time frame before the Counting of votes starts to declare their vote. During this timeframe, 
 they can always change the vote without any consequences on the outcome. 
@@ -162,27 +172,27 @@ the chance to vote, so something like 1-2 weeks seems sufficient.
 
 ![Chrysalis Vote Flow-Vote Flow UI Firefly](https://user-images.githubusercontent.com/77154511/131206679-99264e76-5410-4a73-a2b1-c8b08948640b.png)
 
-### This is how a user will cast a valid vote:
+### How to cast a vote
  
-* After Profile login in Firefly, a voting option is available.
+- After Profile login in [Firefly], a voting option is available.
  
-* The user will be able to decide precisely which amount of Votes (derived from token balance) should be used 
+- The user will be able to decide precisely which amount of Votes (derived from token balance) should be used 
   in the vote (the user can click/unclick all Wallets of the profile)
  
-* After the amount of Votes is chosen, the user must now decide for which option the vote should count - Burn or Build
+- After the amount of Votes is chosen, the user must now decide for which option the vote should count - Burn or Build
  
-* The user unlocks the vote with the Stronghold password and confirms the decision
+- The user unlocks the vote with the Stronghold password and confirms the decision
 
-**Firefly initiates the following logic:** 
+**[Firefly] initiates the following logic:** 
 
-* Every selected Wallet sends a transaction that inherits the amount of Votes = IOTA Tokens chosen by the voter 
+- Every selected Wallet sends a transaction that inherits the amount of Votes = IOTA Tokens chosen by the voter 
   to itself. If the wallet contains several addresses, the amount will be selected from those addresses to match. 
   Addresses send tokens to themselves.
  
-* As an indexation Payload of these Transactions, the opinion (Burn / Build) will be attached as Data in the message 
+- As an indexation Payload of these Transactions, the opinion (Burn / Build) will be attached as Data in the message 
   payload.
 
-* With this system, the user is always in control of the funds. All IOTA Tokens will stay in the user’s wallet 
+- With this system, the user is always in control of the funds. All IOTA Tokens will stay in the user’s wallet 
   and are not moved out of the owner’s control. If the owner can hold the tokens over the defined timeframe 
   on the addresses, the vote weight counts full. If the owner decides to move the tokens earlier, they will not count 
   complete, but the time the tokens have been used to vote will be taken as a percentage of the total voting power 
@@ -192,30 +202,31 @@ Detailed current specification (still work in progress) to find here:
 
 https://github.com/iota-community/treasury/blob/main/specifications/chrysalis-referendum-rfc.md
 
-### This is how a user can change a vote:
+### How to change a vote
 
-* **During commencing time:** open the voting menu and initiate a new vote as described above. The old vote will be 
-  removed and the new one initiated
+- **During commencing time:** open the voting menu and initiate a new vote as described above. The old vote will be 
+  removed and the new one initiated  
+  
 
-* **During the holding period:** Initiating a standard transaction with tokens that are currently used to vote will 
+- **During the holding period:** Initiating a standard transaction with tokens that are currently used to vote will 
   remove the Indexation Data payload together with the tokens from the UTXO. The voting plugin will recognize this 
   change with the next milestone and stop accumulating the votes for this address. To use a different amount 
   of votes now, the user has to initiate a new vote as described above.
 
-* **During the holding period:** Users can always add tokens into the vote that are not currently used by initiating 
+- **During the holding period:** Users can always add tokens into the vote that are not currently used by initiating 
   the voting process for those addresses. The tokens will then be counted from the next milestone on and so will also 
   reach a percentage of the total weight (starting on day 7 of 10 will create only 30% total voting power for those 
   tokens)
 
-* **Changing the opinion:** A user can also change the opinion of the vote during the holding period. 
-  Therefore the process can be initiated to “change opinion,” and the tokens will be sent again, but now with the 
+- **Changing the opinion:** A user can also change the opinion of the vote during the holding period. 
+  Therefore, the process can be initiated to “change opinion,” and the tokens will be sent again, but now with the 
   opposite opinion in the Data payload. From the next milestone on, the Votes will accumulate weight for the 
   new opinion, but the opinion weight that has been collected until the change has happened will still count for the 
   first opinion. So if a user changed the opinion exactly at “halftime” of the vote with an unchanged token amount, 
   both opinions would accumulate exactly 50% weight and therefore result in an effective 0 - sum vote count at the end 
   of the holding time.
 
-The community has started to create some first graphical layouts of how this could look in Firefly, and the designs 
+The community has started to create some first graphical layouts of how this could look in [Firefly], and the designs 
 can be found here:
 
 https://drive.google.com/drive/folders/1-7aTuapYyWR7pp3PzIyCvPa_kFDbn9Ko?usp=sharing
@@ -228,13 +239,13 @@ The IF Design Division has also created further refined ideas regarding the User
 ![Dashboard-1 Acc (1)](https://user-images.githubusercontent.com/77154511/129312946-f27015cd-6027-4f7a-8e67-17986ff51fd2.png)
 ![Dashboard-1 Acc (2)](https://user-images.githubusercontent.com/77154511/129312972-f1cf2008-acf8-4430-ab9c-9076a075c67b.png)
 
-### Using Github to create, discuss, approve and publish proposals
+### Using GitHub to create, discuss, approve and publish proposals
 
-The involved community members envision IOTA’s Community Governance Github repository to be utilized for 
+The involved community members envision IOTA’s Community Governance GitHub repository to be utilized for 
 proposal management. This will serve as a staging area for proposals prior to their final submission to the community 
-nodes and Firefly.
+nodes and the [Firefly] wallet.
 
-Github is considered a trustworthy source and provides a very secure environment for proposals at this stage.
+GitHub is considered a trustworthy source and provides a very secure environment for proposals at this stage.
 
 This method should be sufficient for our initial rollout as we await the release of ISCP.
 
@@ -243,24 +254,23 @@ to participate.
 
 ![Github proposal](https://user-images.githubusercontent.com/77154511/131207054-a6d488f1-ccce-46c2-8e2c-dd7c8576f404.png)
 
+### Vote counting
 
-### This is how votes will be counted:
-
-*  **A plugin/extension of the Hornet Node Software** can be activated in every hornet node. Nodes that do not 
+-  **A plugin/extension of the [Hornet] Node Software** can be activated in every [Hornet] node. Nodes that do not 
    delete (prune) messages during the entire voting period (commencing&holding) will be able to produce the results.
    
-- The node starts observing the ledger for UTXO’s with one of the opinions Data (Burn/Build) in the indexation 
+- The node starts observing the ledger for UTXOs with one of the opinions Data (Burn/Build) in the indexation 
   Data Payload of addresses.
 
-*  **The plugin keeps track of all those UTXO’s** and adds new ones as soon as they appear in the ledger or removes 
+-  **The plugin keeps track of all those UTXOs** and adds new ones as soon as they appear in the ledger or removes 
    them from the count as soon as they disappear.
    
-*  **Counting** happens from the defined “start - milestone” till the defined “end - milestone.”
+-  **Counting** happens from the defined “start - milestone” till the defined “end - milestone.” 
 
-*  As a **new milestone is issued every 10 seconds** - this gives a highly exact counting as every change in opinions 
-   or balances will be recognized in a 10 seconds time frame.
-
-* **After the defined end-milestone**, the plugin produces an output with all observed UTXO’s, balances, Indexation 
+-  As a **new milestone is issued every 10 seconds** - this gives a highly exact counting as every change in opinions 
+   or balances will be recognized in a 10 seconds time frame.  
+   
+- **After the defined end-milestone**, the plugin produces an output with all observed UTXOs, balances, Indexation 
   Payloads per milestone, and the final result as an accumulation of that milestone data.
 
 ### This is a flow diagram of the process:
@@ -285,8 +295,6 @@ We will form a Project Team of members that dedicate full time/part-time to star
 and bring the project forward. Some community developers have applied to take this task, and we are open 
 to more contributors.
 
----
-
 ## Community-Governance
 
 This repo is set up to gather and focus discussions regarding the proposed installation of community governance over 
@@ -307,43 +315,36 @@ formulated and will stay visible and quickly found.
 If you have a topic to discuss, please check it fits under one of the main topics (voting power, voting proposals, ...) 
 and add it as a comment there to avoid the forum spreading out over too many threads.
 
-This should not be a place of disputes over the past or the actions that lead to the fork, but of constructive 
+This should not be a place of disputes over the past, or the actions that lead to the fork, but of constructive 
 forward-thinking working. Critical questioning of everything that happens here is welcome and encouraged, 
 but spam or toxic behavior will not bring us forward and so should not be a part of this repo here.
 
-The primary and starting point of this process is the announcement made by the IOTA Foundation in this blog-post 
-
-https://blog.iota.org/iota-community-treasury-and-genesis-validation/ 
-
-and the clarification blog-post 
-
-https://blog.iota.org/unclaimed-tokens-community-treasury-and-iota-as-faq/
+The primary and starting point of this process is the announcement made by the IOTA Foundation in this 
+[blog post](https://blog.iota.org/iota-community-treasury-and-genesis-validation/)
+and the [clarification blog post](https://blog.iota.org/unclaimed-tokens-community-treasury-and-iota-as-faq/).
 
 The goal will be to propose a voting mechanism and votable options to the community what should happen to these Tokens.
 It might also be used to develop ideas and processes on how a possible community governed use of those funds 
 can be established if the community comes to a vote and decides to install such a system.
 
-The nature of Github Repos allows us to have a verifiable track of all changes and to make it possible for everyone 
-to contribute to the project by issuing commits and pull requests.
+The nature of GitHub repositories allows us to have a verifiable track of all changes and to make it possible 
+for everyone to contribute to the project by issuing commits and pull requests.
 
 Have a look at [CONTRIBUTING](.github/CONTRIBUTING.md).
 
----
-
-<!-- CONTACT -->
 ## Contact
 
-Currently Maintainers of this Repo:
+Current maintainers of this repository:
 
-Adamkundrat - https://github.com/adamkundrat
-
-WernerDerChamp - https://github.com/WernerderChamp
-
-Phyloiota - https://github.com/Phyloiota
-
-Antonio Nardella - https://github.com/antonionardella
+Adamkundrat - https://github.com/adamkundrat  
+WernerDerChamp - https://github.com/WernerderChamp  
+Phyloiota - https://github.com/Phyloiota  
+Antonio Nardella - https://github.com/antonionardella  
 
 If you want to contribute as a Maintainer, please get in touch!
 
-This repo is part of the Organisation “IOTA community” https://github.com/iota-community on Github.
+This repository is part of the [IOTA community Organisation](https://github.com/iota-community) on GitHub.
 
+[Chrysalis]: https://chrysalis.iota.org/
+[Firefly]: https://firefly.iota.org/
+[Hornet]: https://hornet.docs.iota.org/
