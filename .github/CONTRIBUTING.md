@@ -2,7 +2,7 @@
 
 This document describes how to contribute to the IOTA Community Governance.
 
-We encourage everyone with an interrest in this topic to contribute here.
+We encourage everyone with an interest in this topic to contribute here.
 
 Thanks! :heart:
 
