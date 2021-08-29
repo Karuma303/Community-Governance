@@ -233,7 +233,7 @@ https://drive.google.com/drive/folders/1-7aTuapYyWR7pp3PzIyCvPa_kFDbn9Ko?usp=sha
 
 ![image](https://user-images.githubusercontent.com/77154511/126248484-ea68b1bc-708b-4676-99ba-efbaa65a6d8a.png)
 
-The IF Design Division has also created further refined ideas regarding the User experience, some ides are here:
+The IF Design Division has also created further refined ideas regarding the User experience, some ideas are here:
 
 ![Dashboard-1 Acc](https://user-images.githubusercontent.com/77154511/129312921-ac2006ab-31a0-47fc-8261-a8c558de2245.png)
 ![Dashboard-1 Acc (1)](https://user-images.githubusercontent.com/77154511/129312946-f27015cd-6027-4f7a-8e67-17986ff51fd2.png)
